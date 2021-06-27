@@ -57,7 +57,6 @@ hr {
 
 .top-container {
   background-color: #EAF6f6;
-  position: relative;
   padding-top: 100px;
   text-align: center; /* ensures the image is always in the h-middle */
   overflow: hidden; /* hide the cropped portion */
