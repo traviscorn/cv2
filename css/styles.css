@@ -39,18 +39,18 @@ hr {
   border-left: none;
   border-right: none;
   border-bottom: none;
-  width: 5%;
+  width: 10%;
   margin: 100px auto;
   }
 
+
+
 .mountain {
-  width: 90%; /* or whatever is required */
-  text-align: center; /* ensures the image is always in the h-middle */
-  overflow: hidden; /* hide the cropped portion */
-  position: relative; /* allows repositioning */
-  left: 100%; /* move the whole width of the image to the right */
-  margin-left: -200%; /* magic! */
-}
+    position: relative; /* allows repositioning */
+    left: 100%; /* move the whole width of the image to the right */
+    margin-left: -200%; /* magic! */
+    margin-top: -25%;
+  }
 .subheading {
   font-weight: normal;
 }
@@ -59,6 +59,8 @@ hr {
   background-color: #EAF6f6;
   position: relative;
   padding-top: 100px;
+  text-align: center; /* ensures the image is always in the h-middle */
+  overflow: hidden; /* hide the cropped portion */
 }
 
 .middle-container {
@@ -74,6 +76,11 @@ hr {
 .bottom-container {
   color: #EAF6F6;
   background-color: #66BFBF;
+}
+
+.cupcakes {
+  width: 100%;
+  float: right;
 }
 
 .btn {
