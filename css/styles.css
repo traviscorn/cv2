@@ -74,6 +74,10 @@ hr {
 
 }
 
+.gif {
+  width: 75%;
+}
+
 .bottom-container {
   padding: 50px;
   background-color: #CCF2F4;
@@ -85,8 +89,7 @@ hr {
 }
 
 .cupcakes {
-  width: 100%;
-  float: right;
+  width: 75%;
 }
 
 .btn {
