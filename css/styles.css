@@ -78,6 +78,10 @@ hr {
   width: 75%;
 }
 
+.skill-row {
+  margin: 2em 0;
+}
+
 .bottom-container {
   padding: 50px;
   color: #EAF6F6;
