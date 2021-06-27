@@ -41,7 +41,7 @@ hr {
   border-left: none;
   border-right: none;
   border-bottom: none;
-  width: 10%;
+  width: 15%;
   margin: 100px auto;
   }
 
@@ -80,10 +80,6 @@ hr {
 
 .bottom-container {
   padding: 50px;
-  background-color: #CCF2F4;
-}
-
-.bottom-container {
   color: #EAF6F6;
   background-color: #66BFBF;
 }
