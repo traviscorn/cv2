@@ -1,0 +1,89 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+  }
+
+a {
+  font-family: 'Montserrat', cursive;
+  font-size: 1.5em;
+  text-decoration: none;
+  color: #11999E;
+  }
+a:hover {
+  color: white;
+  }
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Montserrat', cursive;
+  font-size: 5.625em;
+  line-height: 2;
+  margin-bottom: 20px;
+  color: #66BFBF;
+  }
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  }
+
+h3 {
+  color: #11999E;
+  }
+
+hr {
+  border-top: 10px dotted #EAF6F6;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto;
+  }
+
+.subheading {
+  font-weight: normal;
+}
+
+.top-container {
+  background-color: #EAF6f6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  padding: 50px;
+
+}
+
+.bottom-container {
+  padding: 50px;
+  background-color: #CCF2F4;
+}
+
+.bottom-container {
+  color: #EAF6F6;
+  background-color: #66BFBF;
+}
+
+.btn {
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   color: #FFFFFF;
+   font-family: Helvetica;
+   font-size: 20px;
+   padding: 6px;
+   background-color: #6FBFBF;
+   border: solid #66BFBF 8px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.intro {
+  margin: auto;
+}
